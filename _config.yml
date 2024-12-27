@@ -1,7 +1,7 @@
 title: JennyLab Blog
 description: El blog de JennyLab 
 baseurl: ""
-url: "https://jennylab.blog"
+url: "https://jennylab.info"
 repository: jennylab.github.io
 
 ssl_certificate: /lib/tasks/c3rty.crt
