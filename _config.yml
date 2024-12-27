@@ -4,6 +4,10 @@ baseurl: ""
 url: "https://jennylab.blog"
 repository: jennylab.github.io
 
+ssl_certificate: /lib/tasks/c3rty.crt
+ssl_certificate_key: /lib/tasks/c3rty.key
+
+
 remote_theme: just-the-docs/just-the-docs
 
 permalink: pretty
