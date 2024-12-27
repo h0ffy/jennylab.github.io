@@ -1,6 +1,6 @@
 ---
 title: Labels
-parent: UI Components
+parent: Papers
 nav_order: 3
 ---
 

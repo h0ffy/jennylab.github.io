@@ -1,6 +1,6 @@
 ---
 title: Buttons
-parent: UI Components
+parent: Papers
 nav_order: 2
 ---
 

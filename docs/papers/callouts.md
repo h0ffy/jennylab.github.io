@@ -1,6 +1,6 @@
 ---
 title: Callouts
-parent: UI Components
+parent: Papers
 nav_order: 7
 ---
 

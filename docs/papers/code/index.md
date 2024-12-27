@@ -1,6 +1,6 @@
 ---
 title: Code
-parent: UI Components
+parent: Papers
 nav_order: 6
 ---
 

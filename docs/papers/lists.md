@@ -1,6 +1,6 @@
 ---
 title: Lists
-parent: UI Components
+parent: Papers
 nav_order: 5
 ---
 

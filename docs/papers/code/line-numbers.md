@@ -1,6 +1,6 @@
 ---
 title: Line Numbers
-parent: Code
+parent: Papers
 ---
 
 # Code Snippets with Line Numbers
