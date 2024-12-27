@@ -7,7 +7,6 @@ repository: jennylab.github.io
 ssl_certificate: /lib/tasks/c3rty.crt
 ssl_certificate_key: /lib/tasks/c3rty.key
 
-
 remote_theme: just-the-docs/just-the-docs
 
 permalink: pretty
@@ -132,3 +131,22 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+# Configuración de navegación
+nav:
+  - title: "Inicio"
+    url: "/"
+  - title: "Documentos"
+    url: "/docs/"
+    children:
+      - title: "Introducción"
+        url: "/docs/intro/"
+      - title: "VXers c0d3rz Or RedTeam Develop"
+        url: "/docs/vxers/"
+      - title: "Pentesting"
+        url: "/docs/pentest/"
+      - title: "Exploiting"
+        url: "/docs/exploiting/"
+      - title: "Fuzzing"
+        url: "/docs/fuzzing/"
+        
